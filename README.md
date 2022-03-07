@@ -5,7 +5,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -16,7 +15,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 A very nice challenge that has taught me more real world use cases of fexbox, svg and pseudo classes. For the first time I've made sure to add overlay without any javascript and I love it. The challenge was good to grasp the concepts of css.
@@ -30,7 +28,7 @@ A very nice challenge that has taught me more real world use cases of fexbox, sv
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://jikkeee.github.io/nftcard/)
 
 ## My process
 I started with visualizing the challenge and a little bit thinking on how to get it done, got my hands dirty real quick because to find solution one must do, the HTML was quite simple, then the css challenging as ever but it was cool I had a bit of help from stack overflow
